@@ -35,11 +35,7 @@ A **mobile-first app** with:
 ---
 
 ## **Screenshots**
-*(Add 3–5 images of key screens: Home, Bowl Builder, Order Summary, Loyalty Rewards)*
+<img width="390" height="844" alt="1" src="https://github.com/user-attachments/assets/f35bb6e6-3e12-4c29-8fb9-9cce0ae4d4e2" />
 
 ---
 
-## **Next Steps**
-- Conduct usability testing  
-- Refine design based on feedback  
-- Optional: create a static interactive demo
