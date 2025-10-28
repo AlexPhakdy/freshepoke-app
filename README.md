@@ -36,6 +36,7 @@ A **mobile-first app** with:
 
 ## **Screenshots**
 <img width="390" height="844" alt="1" src="https://github.com/user-attachments/assets/f35bb6e6-3e12-4c29-8fb9-9cce0ae4d4e2" />
+<img width="390" height="844" alt="2" src="https://github.com/user-attachments/assets/ed4b48d2-5593-4002-9344-059eac90acc6" />
 
 ---
 
